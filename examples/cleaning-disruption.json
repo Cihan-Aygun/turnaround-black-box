@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "task": "TB101-clean",
+    "extra": 30,
+    "saving": 8
+  },
+  "baseline_delay": 45,
+  "improved_delay": 21,
+  "best_intervention": {
+    "task": "TB101-clean",
+    "label": "Cabin cleaning",
+    "flight": "TB101",
+    "reduction": 8,
+    "saved": 24,
+    "ready_gain": {
+      "TB101": 8,
+      "TB203": 8,
+      "TB305": 8
+    }
+  }
+}
